@@ -2,7 +2,7 @@ public class HelloFHDW {
     private static int number = 0;
 
     public static void welcome() { // keine Übergabeparameter, kein Rückgabewert
-        System.out.println("Hello FHDW!");
+        System.out.println("Goodbye FHDW!");
         System.out.println("Your number is " + number);
     }
 
